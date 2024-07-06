@@ -1,7 +1,7 @@
 # Wide-and-Deep-Learning-Book-Recommendation-System
 
 
-This repository contains the code and resources for building a book recommendation system using a Wide and Deep Learning model. The system leverages user ratings data to provide personalized book recommendations based on the architecture described in this paper (https://arxiv.org/pdf/1606.07792). The model combines the benefits of linear models (wide) and deep neural networks (deep) to capture both memorization and generalization capabilities.
+This repository contains the code and resources for building a book recommendation system using a Wide and Deep Learning model. The system leverages user ratings data to provide personalized book recommendations based on the architecture described in this paper (https://arxiv.org/pdf/1606.07792). The model combines the benefits of linear models (wide) and deep neural networks (deep) to capture both memorization and generalization capabilities. This hybrid approach allows the model to memorize and generalize data efficiently.
 
 Dataset
 
